@@ -1,0 +1,43 @@
+header {
+    background-color: darkseagreen;
+    margin-bottom: 25px;
+    padding: 1em 0em 1em 0em;
+}
+.menu li {
+    list-style-type:none;
+    display: inline;
+    padding-left: 2em;
+}
+.menu {
+    font-size: 1.5em;
+    text-transform:uppercase;
+}
+
+#main-menu {
+    position:absolute;
+    right:5em;
+    top:1em;
+}
+
+.footer-menu {
+    position:relative;
+    right:0em;
+    bottom:0em;
+}
+
+footer {
+    background-color: darkseagreen;
+    margin-bottom: 2em;
+    padding: 1em 0em 1em 0em;
+}
+#icon {
+    width:100px;
+    height:100px;
+}
+#header-title {
+    display: inline;
+}
+
+.error {
+    background-color: peachpuff;
+}
